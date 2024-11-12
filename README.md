@@ -50,7 +50,7 @@ DesignOps 推進室
 ### スキル
 
 * **技術スタック**
-    * 言語: Node.js (業務4年), Java (業務3年), Python (趣味5年), Go (趣味5年), Rust (趣味数ヶ月)
+    * 言語: Java (業務3年), Node.js (業務1年), Python (趣味5年), Go (趣味5年), Rust (趣味数ヶ月)
     * フレームワーク: React (業務3年), NestJS (業務1年), Next.js (業務1年), Remix (業務1年), LangChain (業務1年 (v0.2))
     * 生成AI: Gemini (業務1年), OpenAI (業務1年), RAG (業務1年)
     * CI/CD: GitHub Actions (業務1年), Cloud Build (業務1年)

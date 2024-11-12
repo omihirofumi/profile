@@ -56,7 +56,7 @@ DesignOps 推進室
     * CI/CD: GitHub Actions (業務1年), Cloud Build (業務1年)
     * クラウド: Google Cloud (業務1年), AWS (業務1年)
     * IaC: terraform (業務1年)
-    * その他: ドメイン駆動設計 (業務1年), スキーマ駆動 etc.
+    * その他: ドメイン駆動設計 (業務1年), スキーマ駆動開発 etc.
 * **保有資格**
     * Google Cloud: Cloud Digital Leader, Cloud Engineer, Cloud Architect, Cloud Developer, Cloud DevOps Engineer
     * AWS: Cloud Practitioner, Solutions Architect - Associate

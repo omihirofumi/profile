@@ -55,6 +55,7 @@ DesignOps 推進室
     * 生成AI: Gemini (業務1年), OpenAI (業務1年), RAG (業務1年)
     * CI/CD: GitHub Actions (業務1年), Cloud Build (業務1年)
     * クラウド: Google Cloud (業務1年), AWS (業務1年)
+    * IaC: terraform (業務1年)
     * その他: ドメイン駆動設計 (業務1年), スキーマ駆動 etc.
 * **保有資格**
     * Google Cloud: Cloud Digital Leader, Cloud Engineer, Cloud Architect, Cloud Developer, Cloud DevOps Engineer

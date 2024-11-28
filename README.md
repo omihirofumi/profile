@@ -29,7 +29,7 @@ SRE・Webアプリケーションエンジニア
     * TypeScript, NestJS, LangChain 0.2, Google Cloud (Cloud Run Services, Cloud Build, Cloud Storage), Terraform, Git, GitLab CI/CD を使用
 * 生成AIを活用した知育動画コンテンツサービスの開発（4ヶ月〜現在進行中）
     * フロントエンド、バックエンド、インフラを担当
-    * NestJS, Remix, FastAPI, Prisma, PostgreSQL 16, Docker, OpenAI (GPT, Text To Speech), Google Cloud (Cloud Run, Cloud Build, Cloud Deploy, Cloud Scheduler, Cloud Functions, Cloud Storage, Cloud IdP, Firestore), GitHub, GitHub Actions, Terraform を使用
+    * NestJS, Remix, FastAPI, Prisma, PostgreSQL 16, Docker, OpenAI (GPT, Text To Speech), Google Cloud (Cloud Run, Cloud Build, Cloud Deploy, Cloud Scheduler, Cloud Functions, Cloud Storage, Cloud IdP, Firestore), GitHub, GitHub Actions, Terraform, turborepo を使用
 * メンバー育成を目的とした簡単な図書館システムの開発 (3ヶ月〜現在進行中)
     * フロントエンド、バックエンド、インフラを担当
     * Remix, PostgreSQL 16, Prisma, Docker, Terraform, AWS (App Runner, RDS, Lambda, EKS, WAF) を使用

@@ -51,12 +51,12 @@ DesignOps 推進室
 
 * **技術スタック**
     * 言語: Java (業務3年), Node.js (業務1年), Python (趣味5年), Go (趣味5年), Rust (趣味数ヶ月)
-    * フレームワーク: React (業務3年), NestJS (業務1年), Next.js (業務1年), Remix (業務1年), LangChain (業務1年 (v0.2))
+    * フレームワーク: React (業務1年), NestJS (業務1年), Remix (業務1年), LangChain (業務1年 (v0.2))
     * 生成AI: Gemini (業務1年), OpenAI (業務1年), RAG (業務1年)
-    * CI/CD: GitHub Actions (業務1年), Cloud Build (業務1年)
+    * CI/CD: GitHub Actions (業務1年)
     * クラウド: Google Cloud (業務1年), AWS (業務1年)
     * IaC: terraform (業務1年)
-    * その他: ドメイン駆動設計 (業務1年), スキーマ駆動開発 etc.
+    * その他: ドメイン駆動設計 (業務1年), スキーマ駆動開発, モノレポ etc.
 * **保有資格**
     * Google Cloud: Cloud Digital Leader, Cloud Engineer, Cloud Architect, Cloud Developer, Cloud DevOps Engineer
     * AWS: Cloud Practitioner, Solutions Architect - Associate
@@ -65,3 +65,6 @@ DesignOps 推進室
 
 名古屋大学大学院工学研究科材料デザイン工学専攻
 （イギリス留学経験）
+
+### link
+https://linktr.ee/omihirofumi

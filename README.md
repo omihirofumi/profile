@@ -23,13 +23,15 @@ Sreake 事業部
 SRE・Webアプリケーションエンジニア
 
 * 生成AIを活用した薬の飲み合わせアプリの開発（3ヶ月）
-    * バックエンド、インフラを担当
+    * バックエンド開発、インフラを担当
+    * OpenAI (gpt-3.5-turbo), Gemini (gemini-1.5-pro)
     * TypeScript, NestJS, LangChain 0.2, Google Cloud (Cloud Run Services, Cloud Build, Cloud Storage), Terraform, Git, GitLab CI/CD を使用
 * 生成AIを活用した知育動画コンテンツサービスの開発（4ヶ月〜現在進行中）
-    * フロントエンド、バックエンド、インフラを担当
+    * フロントエンド・バックエンド開発、インフラを担当
+    * OpenAI (gpt-4o, 4o-mini, whisper)
     * NestJS, Remix, FastAPI, Prisma, PostgreSQL 16, Docker, OpenAI (GPT, Text To Speech), Google Cloud (Cloud Run, Cloud Build, Cloud Deploy, Cloud Scheduler, Cloud Functions, Cloud Storage, Cloud IdP, Firestore), GitHub, GitHub Actions, Terraform, turborepo を使用
 * メンバー育成を目的とした簡単な図書館システムの開発 (3ヶ月〜現在進行中)
-    * フロントエンド、バックエンド、インフラを担当
+    * フロントエンド・バックエンド開発、インフラを担当
     * Remix, PostgreSQL 16, Prisma, Docker, Terraform, AWS (App Runner, RDS, Lambda, EKS, WAF) を使用
 
 #### スマートスケープ株式会社（2021年4月〜2023年12月）
@@ -44,6 +46,15 @@ DesignOps 推進室
     * メンバーのスケジュール管理、リリース時のbashスクリプト作成なども担当
     * 業務外でPythonを用いたログ監視の自動化ツール等作成し、工数削減に貢献
     * Java (SE 11), JavaScript (jQuery, Backbone.js), RHEL 8.5, Git, Ant を使用
+ 
+#### (副業) 株式会社Kakukaku(2024年4月〜2024年10月
+
+開発エンジニア
+
+* 生成AIを活用したチャットサービスの開発
+    * バックエンド
+    * OpenAI (gpt-4o)
+    * FastAPI, LangChain0.2, Google Cloud (Cloud Run, Cloud IdP), GitHub, GitHub Actions, Terraform, Elasticsearch, Docker
 
 ### スキル
 

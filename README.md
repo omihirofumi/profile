@@ -22,6 +22,8 @@ Sreake 事業部
 
 SRE・フルスタックエンジニア
 
+* Git/Githubの研修プロジェクトコンテンツ作成（2025/2 ~ 現在）
+    * 初学者向けに5時間のGit/Githubの講座を作成   
 * クラウド運用自動化基盤構築（2024/1 ~ 現在）
     * フロントエンド・バックエンド開発、インフラを担当
     * Remix v3 (react router v7), PostgreSQL, Prisma, Docker

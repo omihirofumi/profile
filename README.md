@@ -76,7 +76,7 @@ DesignOps 推進室
     * IaC: terraform
     * その他: クリーンアーキテクチャー, ドメイン駆動設計, スキーマ駆動開発, モノレポ etc.
 * **保有資格**
-    * Google Cloud: Cloud Digital Leader, Cloud Engineer, Cloud Architect, Cloud Developer, Cloud DevOps Engineer
+    * Google Cloud: Cloud Digital Leader, Cloud Engineer, Cloud Architect, Cloud Developer
     * AWS: Cloud Practitioner, Solutions Architect - Associate
 
 ### 最終学歴

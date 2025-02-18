@@ -25,13 +25,16 @@ SRE・フルスタックエンジニア
 * クラウド運用自動化基盤構築（2024/1 ~ 現在）
     * フロントエンド・バックエンド開発、インフラを担当
     * Remix v3 (react router v7), PostgreSQL, Prisma, Docker
+    * クリーンアーキテクチャー, ドメイン駆動設計
 * メンバー育成を目的とした簡単な図書館システムの開発（2024/8〜現在）
     * フロントエンド・バックエンド開発、インフラを担当
     * Remix, PostgreSQL, Prisma, Docker, Terraform, AWS (App Runner, RDS, Lambda, WAF) を使用
+    * クリーンアーキテクチャー, ドメイン駆動設計
 * 生成AIを活用した知育動画コンテンツサービスの開発（6ヶ月）
     * フロントエンド・バックエンド開発、インフラを担当
     * OpenAI (gpt-4o, 4o-mini, whisper)
     * NestJS, Remix, FastAPI, Prisma, PostgreSQL 16, Docker, OpenAI (GPT, Text To Speech), Google Cloud (Cloud Run, Cloud Build, Cloud Deploy, Cloud Scheduler, Cloud Functions, Cloud Storage, Cloud IdP, Firestore), GitHub, GitHub Actions, Terraform, turborepo を使用
+    * スキーマ駆動開発, モノレポ, ADR
 * 生成AIを活用した薬の飲み合わせアプリの開発（3ヶ月）
     * バックエンド開発、インフラを担当
     * OpenAI (gpt-3.5-turbo), Gemini (gemini-1.5-pro)

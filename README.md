@@ -22,6 +22,9 @@ Sreake 事業部
 
 SRE・フルスタックエンジニア
 
+* マイクロサービスのCI/CD改善（2025/3 ~ 現在）
+    * SRE(見習い)
+    * ArgoCD, Github Actions, Kustomize, GKE
 * Git/Githubの研修プロジェクトコンテンツ作成（2025/2 ~ 現在）
     * 初学者向けに5時間のGit/Githubの講座を作成   
 * クラウド運用自動化基盤構築（2024/1 ~ 現在）

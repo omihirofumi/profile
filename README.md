@@ -24,12 +24,12 @@ SRE・フルスタックエンジニア
 
 * マイクロサービスのCI/CD改善やGoogle Cloud支援（2025/3 ~ 現在）
     * SRE
-    * ArgoCD, Github Actions, Kustomize, GKE
+    * ArgoCD, Github Actions, Kustomize, GKE, Apollo
 * Git/Githubの研修プロジェクトコンテンツ作成（2025/2 ~ 現在）
     * 初学者向けに5時間のGit/Githubの講座を作成   
 * クラウド運用自動化基盤構築（2024/1 ~ 現在）
     * フロントエンド・バックエンド開発、インフラを担当
-    * Remix v3 (react router v7), PostgreSQL, Prisma, Docker
+    * Remix v3 (react router v7), PostgreSQL, Prisma, Docker, AWS (App Runner, RDS, Lambda, DynamoDB etc.)
     * クリーンアーキテクチャー, ドメイン駆動設計
 * メンバー育成を目的とした簡単な図書館システムの開発（2024/8〜現在）
     * フロントエンド・バックエンド開発、インフラを担当

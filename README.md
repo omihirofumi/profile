@@ -30,11 +30,11 @@ SRE・フルスタックエンジニア
 * クラウド運用自動化基盤構築（2024/1 ~ 現在）
     * フロントエンド・バックエンド開発、インフラを担当
     * Remix v3 (react router v7), PostgreSQL, Prisma, Docker, AWS (App Runner, RDS, Lambda, DynamoDB etc.)
-    * クリーンアーキテクチャー, ドメイン駆動設計
+    * ドメイン駆動設計, port adapter
 * メンバー育成を目的とした簡単な図書館システムの開発（2024/8〜現在）
     * フロントエンド・バックエンド開発、インフラを担当
     * Remix, PostgreSQL, Prisma, Docker, Terraform, AWS (App Runner, RDS, Lambda, WAF) を使用
-    * クリーンアーキテクチャー, ドメイン駆動設計
+    * ドメイン駆動設計, port adapter
 * 生成AIを活用した知育動画コンテンツサービスの開発（6ヶ月）
     * フロントエンド・バックエンド開発、インフラを担当
     * OpenAI (gpt-4o, 4o-mini, whisper)
@@ -79,7 +79,7 @@ DesignOps 推進室
     * CI/CD: GitHub Actions
     * クラウド: Google Cloud, AWS
     * IaC: terraform
-    * その他: クリーンアーキテクチャー, ドメイン駆動設計, スキーマ駆動開発, モノレポ etc.
+    * その他: ドメイン駆動設計, スキーマ駆動開発, モノレポ, port adapter etc.
 * **保有資格**
     * Google Cloud: Cloud Digital Leader, Cloud Engineer, Cloud Architect, Cloud Developer
     * AWS: Cloud Practitioner, Solutions Architect - Associate

@@ -12,6 +12,7 @@
 
 * 海外エキスパートネットワークサービスの開発・運用
     * フルスタック
+    * Kotlin, Java, Angular, Amazon ECS, Spring Boot, DDD
 
 #### 株式会社スリーシェイク （2023年1月〜2025年5月）
 
